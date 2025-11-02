@@ -130,7 +130,7 @@ key_key.entityculling.toggle:key.keyboard.unknown
 key_key.mega_showdown.mega_evo:key.keyboard.k
 key_key.mega_showdown.ultra_key:key.keyboard.l
 key_key.cobblemon.hideparty:key.keyboard.o
-key_key.cobblemon.summary:key.keyboard.m
+key_key.cobblemon.summary:key.keyboard.v
 key_key.cobblemon.downshiftparty:key.keyboard.down
 key_key.cobblemon.upshiftparty:key.keyboard.up
 key_key.cobblemon.throwpartypokemon:key.keyboard.r
@@ -187,9 +187,9 @@ key_betterstats.key_binding.toggle_hud_screen:key.keyboard.unknown
 key_dsurround.text.keybind.modConfigurationMenu:key.keyboard.unknown
 key_dsurround.text.keybind.individualSoundConfig:key.keyboard.unknown
 key_dsurround.text.keybind.diagnosticHud:key.keyboard.unknown
-key_iris.keybind.reload:key.keyboard.r
-key_iris.keybind.toggleShaders:key.keyboard.k
-key_iris.keybind.shaderPackSelection:key.keyboard.o
+key_iris.keybind.reload:key.keyboard.right.alt
+key_iris.keybind.toggleShaders:key.keyboard.unknown
+key_iris.keybind.shaderPackSelection:key.keyboard.unknown
 key_iris.keybind.wireframe:key.keyboard.unknown
 soundCategory_master:1.0
 soundCategory_music:1.0
